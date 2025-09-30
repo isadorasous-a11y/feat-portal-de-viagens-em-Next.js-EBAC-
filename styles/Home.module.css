@@ -1,0 +1,30 @@
+.hero {
+  text-align: center;
+  padding: 4rem 1rem;
+}
+
+.hero h1 {
+  font-size: clamp(1.8rem, 3.5vw, 2.6rem);
+  margin-bottom: 0.5rem;
+}
+
+.hero p {
+  max-width: 720px;
+  margin: 0 auto 1.5rem;
+  color: #444;
+}
+
+.cta {
+  display: inline-block;
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  border: 1px solid #111;
+  text-decoration: none;
+  background: #111;
+  color: #fff;
+  transition: background 0.2s ease;
+}
+
+.cta:hover {
+  background: #333;
+}

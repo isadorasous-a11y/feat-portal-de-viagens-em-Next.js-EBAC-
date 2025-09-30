@@ -1,0 +1,47 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.voltar {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  text-decoration: none;
+  color: #0070f3;
+  font-weight: 500;
+}
+
+.voltar:hover {
+  text-decoration: underline;
+}
+
+.titulo {
+  margin: 0.5rem 0 0;
+  font-size: 1.8rem;
+}
+
+.local {
+  color: #666;
+  margin: 0 0 1rem;
+  font-size: 1rem;
+}
+
+.imageWrap {
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #e6e6e6;
+  margin: 1rem 0;
+}
+
+.imageWrap img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.descricao {
+  line-height: 1.6;
+  font-size: 1rem;
+  color: #333;
+}
