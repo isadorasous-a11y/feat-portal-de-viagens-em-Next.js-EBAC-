@@ -10,7 +10,7 @@ const customJestConfig = {
     '^@/hooks/(.*)$': '<rootDir>/hooks/$1',
     '^@/lib/(.*)$': '<rootDir>/lib/$1',
     '^@/app/(.*)$': '<rootDir>/app/$1',
-    '^@/pages/(.*)$': '<rootDir>/pages/$1'
+    '^@/pages/(.*)$': '<rootDir>/pages/$1' // se usar /pages
   },
   testMatch: ['**/?(*.)+(test).[jt]s?(x)'],
   transformIgnorePatterns: ['/node_modules/']
