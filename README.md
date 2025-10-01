@@ -23,6 +23,10 @@ O portal lista destinos turísticos do Brasil e permite visualizar detalhes de c
 - Layout padrão com header, menu e footer
 - Estilização com CSS Modules
 
+🚢 Deploy (Produção)
+
+https://feat-portal-de-viagens-em-next-js-e.vercel.app
+
 ## ▶️ Como rodar
 ```bash
 npm install
