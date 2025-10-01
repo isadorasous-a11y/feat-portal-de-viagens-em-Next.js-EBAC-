@@ -27,6 +27,11 @@ O portal lista destinos turísticos do Brasil e permite visualizar detalhes de c
 
 https://feat-portal-de-viagens-em-next-js-e.vercel.app
 
+## ✅ Status da Pipeline
+
+[![CI](https://github.com/isadorasous-a11y/feat-portal-de-viagens-em-Next.js-EBAC-/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/isadorasous-a11y/feat-portal-de-viagens-em-Next.js-EBAC-/actions/workflows/ci.yml)
+[![Deploy](https://github.com/isadorasous-a11y/feat-portal-de-viagens-em-Next.js-EBAC-/actions/workflows/deploy-vercel.yml/badge.svg?branch=main)](https://github.com/isadorasous-a11y/feat-portal-de-viagens-em-Next.js-EBAC-/actions/workflows/deploy-vercel.yml)
+
 ## ▶️ Como rodar
 ```bash
 npm install
